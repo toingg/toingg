@@ -9,6 +9,9 @@ Hi there, I'm Fachrizal Ardiansyah 👋
 
 I'm a student with a strong interest in backend development. I'm passionate about learning how to build robust and scalable server-side applications, and I'm continuously improving my skills in this area. Although I’m still in the learning phase, I’m committed to growing my skills in software engineering. Feel free to explore the projects I've worked on, and if you find something useful, I’d be thrilled if you left a star or like. You can connect with me through the social links below, I'm always excited to meet new people and share knowledge!
 
+[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/fachrizala/)
+[![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/fachrizala_/)
+
 ---
 <h2 align="center">⚒️ Tech Stack and Tools I Use ⚒️</h2>
 <br/>
