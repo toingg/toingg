@@ -20,8 +20,8 @@ I'm a student with a strong interest in backend development. I'm passionate abou
 <h2 align="center">⚒️ Tech Stack and Tools I Use ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,go,vscode,figma,github" /><br>
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,go,vscode,figma,postman,github" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,gcp,postgresql,mysql" /><br>
 </div>
 
 ---
